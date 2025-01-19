@@ -139,6 +139,18 @@
             //}
             #endregion
 
+            #region Q3
+            //EmailNotificationService email = new EmailNotificationService();
+            //PushNotificationService push = new PushNotificationService();
+            //SmsNotificationService sms = new SmsNotificationService();
+
+            //email.DisplayNotification("Hello Noran", "Salah");
+            //Console.WriteLine();
+            //push.DisplayNotification("Hello Noran", "Salah");
+            //Console.WriteLine();
+            //sms.DisplayNotification("Hello Noran", "Salah");
+            #endregion
+
 
 
 
