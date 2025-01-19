@@ -105,7 +105,7 @@
             // Answer => d) A class cannot implement multiple interfaces
             #endregion
 
-
+            //Part 2
 
 
 
