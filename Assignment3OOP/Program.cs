@@ -115,6 +115,30 @@
             //rectangle.DisplayShapeInfo();
             #endregion
 
+            #region Q2
+            //BasicAuthenticationService user = new BasicAuthenticationService();
+            //string UserName = "UseName";
+            //string Password = "Password";
+
+            //if(user.AuthenticateUser(UserName , Password))
+            //{
+            //    string Role = "Admin";
+            //    if(user.AuthorizeUser(UserName , Role))
+            //    {
+            //        Console.WriteLine(" Authenticated and Autherized") ;
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Authenticated");
+            //    }
+
+            //}
+            //else
+            //{
+            //    Console.WriteLine("not Authenticated and not Autherized") ;
+            //}
+            #endregion
+
 
 
 
