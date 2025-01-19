@@ -16,6 +16,17 @@
             // Answer => b) To define a blueprint for a class
             #endregion
 
+            #region Q2
+            //Which of the following is NOT a valid access modifier for interface members in C#?
+            //a) private
+            //b) protected
+            //c) internal
+            //d) public
+
+            // Answer => a) private 
+            #endregion
+
+
 
         }
     }
