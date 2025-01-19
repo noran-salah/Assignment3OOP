@@ -107,6 +107,14 @@
 
             //Part 2
 
+            #region Q1
+            //Circle circle = new Circle() {Radius = 100 };
+            ////circle.Radius = 10;
+            //Rectangle rectangle = new Rectangle() { Height = 15, Width = 10 };
+            //circle.DisplayShapeInfo();
+            //rectangle.DisplayShapeInfo();
+            #endregion
+
 
 
 
